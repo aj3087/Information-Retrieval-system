@@ -1,0 +1,14 @@
+---
+:id: 163286480
+:submitters:
+- :name: Suchit Sahoo
+  :email: suchit.sahoo@columbia.edu
+- :name: Aarushi Jain
+  :email: aj3087@columbia.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-02-20 15:58:10.683266000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-02-20 07:58:10.683266000 Z
+:status: processed
+:score: 9.7
